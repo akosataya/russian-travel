@@ -2,9 +2,9 @@
     margin: 0 auto;
     min-width: 320px;
     max-width: 1280px;
-    max-height: 6875px;
+    min-height: 100vh;
     background-color: #2A2C2F;
-    font-family: 'Inter', 'Arial', sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
     color: #FFFFFF;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
