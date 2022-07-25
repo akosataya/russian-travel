@@ -21,5 +21,7 @@
 		line-height: 35px;
 		padding: 0 0 32px 16px;
 		max-width: 288px;
+		min-height: 35px;
+		white-space: nowrap;
 	}
 }

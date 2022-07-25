@@ -19,3 +19,13 @@
 		padding: 88px 0 24px;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.footer {
+		max-width: 186px;
+		min-height: 310px;
+		padding: 64px 16px 0 24px;
+		flex-direction: column;
+		margin: 0;
+	}
+}

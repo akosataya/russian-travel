@@ -19,3 +19,11 @@
 		padding: 90px 0 0;
 	}
 }
+
+@media screen and (max-width: 320px) {
+	.cover {
+		max-width: 320px;
+		min-height: 200px;
+		padding: 66px 0 0;
+	}
+}
