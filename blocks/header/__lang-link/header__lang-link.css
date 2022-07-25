@@ -8,5 +8,17 @@
     list-style: none;
     text-decoration: none;
     color: #FFFFFF;
+    transition: opacity 0.3s ease;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+@media screen and (max-width: 320px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
 }
 
