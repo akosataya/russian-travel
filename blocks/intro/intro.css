@@ -2,13 +2,14 @@
     max-width: 690px;
     width: calc(100% - 2*148px);
     margin: 0;
-    padding: 92px 0 0;
+    padding: 92px 0 0 148px;
     overflow: hidden;
 }
 
 @media screen and (max-width: 1024px) {
     .intro {
         padding: 92px 0 0 48px;
+        width: calc(100% - 48px*2);
     }
 }
 
@@ -16,7 +17,7 @@
     .intro {
         max-width: 720px;
         width: calc(100% - 24px*2);
-        padding: 88px 0 0 0;
+        padding: 88px 0 0;
         margin: 0 auto;
     }
 }
@@ -25,7 +26,7 @@
     .intro {
         max-width: 288px;
         width: calc(100% - 16px*2);
-        padding: 64px 0 0 0;
+        padding: 64px 0 0;
         margin: 0 auto;
     }
 }

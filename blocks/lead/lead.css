@@ -1,5 +1,5 @@
 .lead {
-    max-width: 984px;
+    width: calc(100% - 2*148px);
     padding-top: 56px;
     display: flex;
     flex-direction: column;
@@ -9,21 +9,21 @@
 
 @media screen and (max-width: 1024px) {
     .lead {
-        max-width: 928px;
+        width: calc(100% - 2*48px);
         padding-top: 48px;
     }
 }
 
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
     .lead {
-        max-width: 768px;
+        width: 100%;
         padding-top: 48px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead {
-        max-width: 320px;
+        width: 100%;
         padding-top: 48px;
     }
-}
+} */
