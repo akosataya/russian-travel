@@ -5,7 +5,7 @@
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
-	line-height: 22px;
+	line-height: 122%;
 	text-align: center;
 	color: #FFFFFF;
 	z-index: 1;
@@ -15,7 +15,7 @@
 	.cover__subtitle {
 		max-width: 288px;
 		font-size: 14px;
-		line-height: 16px;
+		line-height: 114%;
 		white-space: pre-line;
 	}
 }
