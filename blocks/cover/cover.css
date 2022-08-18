@@ -15,14 +15,12 @@
 @media screen and (max-width: 768px) {
 	.cover {
 		min-height: 480px;
-		width: 100%;
 		padding: 90px 0 0;
 	}
 }
 
 @media screen and (max-width: 320px) {
 	.cover {
-		width: 100%;
 		min-height: 200px;
 		padding: 66px 0 0;
 	}
