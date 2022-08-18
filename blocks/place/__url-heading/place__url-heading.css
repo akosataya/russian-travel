@@ -7,9 +7,10 @@
 	font-size: 12px;
 	line-height: 12px;
 	letter-spacing: 2px;
+	text-transform: uppercase;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 560px) {
 	.place__url-heading {
 		max-width: 288px;
 		padding-left: 16px;
