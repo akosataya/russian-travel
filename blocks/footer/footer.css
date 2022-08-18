@@ -24,7 +24,7 @@
 	.footer {
 		width: calc(100% - 16px*2);
 		min-height: 310px;
-		padding: 64px 0 24px;
+		padding: 64px 0 0;
 		flex-direction: column;
 		margin: 0 auto;
 	}

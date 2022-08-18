@@ -2,10 +2,12 @@
 	font-style: normal;
 	font-weight: 400;
 	font-size: 18px;
-	line-height: 22px;
+	line-height: 122%;
 	text-decoration-line: underline;
 	color: #FFFFFF;
 	transition: opacity 0.3s ease;
+	padding: 0;
+	margin: 0 0 48px;
 }
 
 .place__link:hover {
@@ -16,5 +18,6 @@
 	.place__link {
 		padding: 0 0 32px 16px;
 		max-width: 288px;
+		margin: 0;
 	}
 }
