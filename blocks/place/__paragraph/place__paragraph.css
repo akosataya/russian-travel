@@ -6,6 +6,7 @@
 	font-size: 18px;
 	line-height: 163%;
 	max-width: 484px;
+	min-width: 313px;
 }
 
 .place__paragraph:last-child {
@@ -15,6 +16,7 @@
 @media screen and (max-width: 1024px) {
 	.place__paragraph {
 		max-width: 456px;
+		min-width: 300px;
 	}
 }
 
