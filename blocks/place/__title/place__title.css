@@ -10,7 +10,7 @@
 @media screen and (max-width: 768px) {
 	.place__title {
 		font-size: calc( (100vw - 375px)/(768 - 375) * (42 - 32) + 32px);
-		width: 95%;
+		width: 97%;
 		line-height: 110%;
 	}
 }

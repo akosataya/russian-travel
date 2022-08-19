@@ -6,7 +6,7 @@
 	font-size: 18px;
 	line-height: 163%;
 	max-width: 484px;
-	min-width: 313px;
+	min-width: 456px;
 }
 
 .place__paragraph:last-child {
@@ -25,6 +25,7 @@
 		font-size: 16px;
 		padding: 0 0 25px 0;
 		max-width: 352px;
+		min-width: 288px;
 	}
 }
 
