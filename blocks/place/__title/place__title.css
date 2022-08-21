@@ -7,15 +7,15 @@
 	line-height: 106%;
 }
 
-@media screen and (max-width: 886px) {
+@media screen and (max-width: 823px) {
 	.place__title {
-		font-size: calc( (100vw - 375px)/(768 - 375) * (42 - 32) + 32px);
+		font-size: calc( (100vw - 375px)/(823 - 375) * (42 - 32) + 32px);
 		width: 97%;
 		line-height: 110%;
 	}
 }
 
-@media screen and (max-width: 704px) {
+@media screen and (max-width: 690px) {
 	.place__title {
 		padding: 0 0 32px 16px;
 		width: 90%;
