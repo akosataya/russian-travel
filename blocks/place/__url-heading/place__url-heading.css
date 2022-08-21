@@ -10,7 +10,7 @@
 	text-transform: uppercase;
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 704px) {
 	.place__url-heading {
 		max-width: 288px;
 		padding-left: 16px;

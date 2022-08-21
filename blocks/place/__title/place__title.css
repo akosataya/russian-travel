@@ -7,7 +7,7 @@
 	line-height: 106%;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 886px) {
 	.place__title {
 		font-size: calc( (100vw - 375px)/(768 - 375) * (42 - 32) + 32px);
 		width: 97%;
@@ -15,10 +15,12 @@
 	}
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 704px) {
 	.place__title {
 		padding: 0 0 32px 16px;
 		width: 90%;
+		line-height: 109%;
+		font-size: 32px;
 		line-height: 109%;
 	}
 }

@@ -20,7 +20,7 @@
 	}
 }
 
-@media screen and (max-width: 560px) {
+@media screen and (max-width: 680px) {
 	.footer {
 		width: calc(100% - 16px*2);
 		min-height: 310px;

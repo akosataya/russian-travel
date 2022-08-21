@@ -2,24 +2,25 @@
     margin: 0 auto;
     width: calc(100% - 2*148px);
     padding: 92px 0 0;
+    overflow: hidden;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1096px) {
     .places {
         width: calc(100% - 2*48px);
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 886px) {
     .places {
         width: calc(100% - 2*24px);
         padding: 88px 0 0;
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 690px) {
     .places {
-        width: 100%;
         padding: 64px 0 0;
+        width: 100%;
     }
 }
