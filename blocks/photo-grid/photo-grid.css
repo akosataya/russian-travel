@@ -4,12 +4,6 @@
     padding-top: 92px;
 }
 
-@media screen and (max-width: 1024px) {
-    .photo-grid {
-        width: calc(100% - 2*48px);
-    }
-}
-
 @media screen and (max-width: 768px) {
     .photo-grid {
         width: calc(100% - 2*24px);
@@ -18,8 +12,10 @@
 }
 
 @media screen and (max-width: 320px) {
-	.photo-grid {
+    .photo-grid {
         width: calc(100% - 2*16px);
         padding-top: 64px;
 	}
 }
+
+/* Я не знаю, почему, но у меня вложенность кода соблюдена, я её исправила еще в первый раз. Странно, что у вас отоброжается иначе. Я бы приложила скрин, если бы была возможность. */
